@@ -1,5 +1,27 @@
-/* Add background image to the game page */
+/* Add background image */
 body {
     background: url('../images/background.jpg');
     background-size: cover;
+}
+
+/* Style the draft elements */
+.draft {
+    display: flex;
+    justify-content: center;
+}
+
+.draft {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 8rem;
+    transition: 100ms;
+
+}
+
+.draft:hover {
+    transform: scale(1.3);
+
+
 }
