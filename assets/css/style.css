@@ -4,6 +4,7 @@ body {
     background-size: cover;
 }
 
+/* Style the header elements */
 header {
     margin-top: 200px;
     background-color: rgba(160, 157, 157, 0.088);
@@ -40,7 +41,7 @@ button.draft:hover {
 
 #draft {
     margin-top: 150px;
-    background-color: rgba(160, 157, 157, 0.088);
+    background-color: rgba(235, 235, 235, 0.800);
     border-radius: 30px;
     margin: auto;
     width: 70%;
@@ -60,6 +61,13 @@ button.draft:hover {
     justify-items: center;
     align-items: center;
 }
+
+.outcome-score {
+    margin-left: .1rem;
+    font-size: 1.5rem;
+    color: #bb5c03;
+}
+
 
 /* footer */
 
