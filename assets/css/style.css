@@ -68,6 +68,36 @@ button.draft:hover {
     color: #bb5c03;
 }
 
+/* Style the resoult history elements */
+.resoulthistory {
+    margin-top: 150px;
+    background-color: rgba(235, 235, 235, 0.800);
+    border-radius: 30px;
+    margin: auto;
+    width: 70%;
+    border: 3px solid #ff7b00;
+    padding: 10px;
+    margin-top: 20px;
+    color: #ff7b00;
+    font-size: 200%;
+
+}
+
+.resultchoice {
+    opacity: .5;
+    margin-top: 1rem;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+}
+
+.resultchoice.winner {
+    opacity: 1;
+    font-size: 1.5rem;
+}
+
 
 /* footer */
 
