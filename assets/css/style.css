@@ -19,13 +19,13 @@ header {
     font-size: 200%;
 }
 
-/* Style the draft elements */
-.draft {
+/* Style the pick elements */
+.pick {
     display: flex;
     justify-content: center;
 }
 
-.draft {
+.pick {
     background: none;
     border: none;
     outline: none;
@@ -35,11 +35,11 @@ header {
 
 }
 
-button.draft:hover {
+button.pick:hover {
     transform: scale(1.3);
 }
 
-#draft {
+#pick {
     margin-top: 150px;
     background-color: rgba(235, 235, 235, 0.800);
     border-radius: 30px;
