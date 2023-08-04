@@ -15,7 +15,7 @@ const SELECTIONS = [
         name: 'scissors',
         emoji: '✌🏽',
         beats: 'paper'
-    }
+    }git 
 ];
 
 
@@ -29,7 +29,15 @@ pickButtons.forEach(selectionButton => {
 
 function makePick(selection) {
     const computerSelection = randomPick();
+    const yourWinner = winnerIs(selection, computerSelection);
+    const computerWinner = winnerIs(computerSelection, selection);
     console.log(selection);
+}
+
+
+
+function winnerIs(selection, opponentSelection) {
+    return selection.beats === opponentSelection.name;
 }
 
 
