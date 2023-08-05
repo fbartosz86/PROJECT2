@@ -69,7 +69,7 @@ button.pick:hover {
 }
 
 /* Style the resoult history elements */
-.resoulthistory {
+.history {
     margin-top: 150px;
     background-color: rgba(235, 235, 235, 0.800);
     border-radius: 30px;
@@ -83,17 +83,12 @@ button.pick:hover {
 
 }
 
-.resultchoice {
+/* Style for the history resoults */
+.result-pick {
     opacity: .5;
-    margin-top: 1rem;
-    display: grid;
-    justify-content: center;
-    grid-template-columns: repeat(2, 1fr);
-    justify-items: center;
-    align-items: center;
 }
 
-.resultchoice.winner {
+.result-pick.winner {
     opacity: 1;
     font-size: 1.5rem;
 }
