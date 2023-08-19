@@ -142,3 +142,29 @@ p.rules:hover {
     .pick {
         font-size: 6rem;
     }
+}
+
+/* For screens size from 605px wide and down */
+@media only screen and (max-width: 605px) {
+    #pic {
+        font-size: 100%;
+    }
+
+    .history {
+        font-size: 100%;
+    }
+
+    .pick {
+        font-size: 4rem;
+        margin: 0;
+    }
+
+    .outcome {
+        font-size: 90%;
+    }
+
+    #pac {
+        font-size: 100%;
+    }
+
+}
