@@ -128,3 +128,17 @@ h3.rules {
 p.rules:hover {
     text-shadow: 0 0 15px #ff7b00;
 }
+
+/* For screens size from 805px wide and down */
+@media only screen and (max-width: 805px) {
+    #pic {
+        font-size: 150%;
+    }
+
+    .history {
+        font-size: 150%;
+    }
+
+    .pick {
+        font-size: 6rem;
+    }
