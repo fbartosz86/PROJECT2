@@ -76,7 +76,7 @@ h2 {
 
 .outcome-score {
     margin-left: .1rem;
-    font-size: 1.5rem;
+    font-size: 1.5re\m;
     color: #bb5c03;
 }
 
@@ -175,4 +175,26 @@ p.rules:hover {
     .outcome {
         font-size: 70%;
     }
+
+    .outcome-score {
+        font-size: 1rem;
+
+    }
+
+    .result-pick.winner {
+        font-size: 1rem;
+
+    }
+}
+
+/* For screens size from 440px wide and down */
+@media only screen and (max-width: 440px) {
+    .outcome {
+        font-size: 50%;
+    }
+
+    #pac {
+        font-size: 80%;
+    }
+
 }
