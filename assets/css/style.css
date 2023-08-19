@@ -198,3 +198,28 @@ p.rules:hover {
     }
 
 }
+
+/* For screens size from 370px wide and down */
+@media only screen and (max-width: 370px) {
+    .pick {
+        font-size: 3rem;
+    }
+
+    #pac {
+        font-size: 80%;
+    }
+
+    .outcome {
+        font-size: 40%;
+    }
+
+    .outcome-score {
+        font-size: 0.8rem;
+
+    }
+
+    .result-pick.winner {
+        font-size: 0.8rem;
+
+    }
+}
