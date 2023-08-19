@@ -71,3 +71,19 @@ function randomPick() {
     const randomIndex = Math.floor(Math.random() * SELECTIONS.length);
     return SELECTIONS[randomIndex];
 }
+
+// Show allert on the weebsite if you won or lost
+function checkWinner() {
+    let computerScore = document.querySelector('[data-computer-score]').innerHTML;
+    let yourScore = document.querySelector('[data-your-score]').innerHTML;
+    if (computerScore >= 10) {
+        alert("You Lost :(");
+        location.reload();
+    }
+    else if (yourScore >= 10) {
+        alert("You Won!");
+        location.reload();
+    }
+    else
+        return false;
+}
