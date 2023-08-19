@@ -1,3 +1,8 @@
+/* Add google fonts */
+* {
+    font-family: 'Black Ops One', cursive;
+}
+
 /* Add background image */
 body {
     background: url('../images/background.jpg');
