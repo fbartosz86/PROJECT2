@@ -12,7 +12,7 @@ body {
 /* Style the header elements */
 header {
     margin-top: 200px;
-    background-color: rgba(160, 157, 157, 0.088);
+    background-color: rgba(0, 0, 0, 0.450);
     border-radius: 25px;
     margin: auto;
     text-align: center;
@@ -23,6 +23,8 @@ header {
     color: #ff7b00;
     font-size: 200%;
 }
+
+
 
 /* Style the pick elements */
 .pick {
@@ -46,7 +48,7 @@ button.pick:hover {
 
 #pick {
     margin-top: 150px;
-    background-color: rgba(235, 235, 235, 0.800);
+    background-color: rgba(0, 0, 0, 0.650);
     border-radius: 30px;
     margin: auto;
     width: 70%;
@@ -55,6 +57,11 @@ button.pick:hover {
     margin-top: 20px;
     color: #ff7b00;
     font-size: 200%;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
 }
 
 /* Style the outcome elements */
@@ -76,7 +83,7 @@ button.pick:hover {
 /* Style the resoult history elements */
 .history {
     margin-top: 150px;
-    background-color: rgba(235, 235, 235, 0.800);
+    background-color: rgba(0, 0, 0, 0.650);
     border-radius: 30px;
     margin: auto;
     width: 70%;
