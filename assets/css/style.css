@@ -130,6 +130,25 @@ p.rules:hover {
     text-shadow: 0 0 15px #ff7b00;
 }
 
+/* Restart button */
+.restart {
+
+    background-color: rgba(0, 0, 0, 0.650);
+    border-radius: 30px;
+    border: 3px solid #ff7b00;
+    padding: 10px;
+    margin-top: 20px;
+    color: #ff7b00;
+    margin: 0 auto;
+    display: block;
+}
+
+.restart:hover {
+    transform: scale(1.3);
+    box-shadow: 0 0 15px #ff7b00;
+
+}
+
 /* For screens size from 805px wide and down */
 @media only screen and (max-width: 805px) {
     #pic {
