@@ -2,10 +2,9 @@
 
 [Visit the website here](https://fbartosz86.github.io/PROJECT2/)
 
+![](assets/images/responsive.jpg)
 
-
-
-
+---
 
 
 
@@ -17,5 +16,4 @@ background
 
 how to make full background cover pic
 <https://css-tricks.com/perfect-full-page-background-image/>
-
 
