@@ -1,4 +1,13 @@
-Finisht readme file 
+# Rock Paper scissors
+
+[Visit the website here](https://fbartosz86.github.io/PROJECT2/)
+
+
+
+
+
+
+
 
 background
 
