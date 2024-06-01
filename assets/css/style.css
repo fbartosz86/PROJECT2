@@ -18,7 +18,7 @@ header {
     margin: auto;
     text-align: center;
     width: 70%;
-    border: 3px solid 0#ff7b0;
+    border: 3px solid 0#ff7b00;
     padding: 10px;
     margin-top: 20px;
     color: #ff7b00;
@@ -77,7 +77,7 @@ h2 {
 
 .outcome-score {
     margin-left: .1rem;
-    font-size: 1.5re\m;
+    font-size: 1.5rem;
     color: #bb5c03;
 }
 

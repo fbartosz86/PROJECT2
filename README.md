@@ -72,6 +72,34 @@ After either the Player or the Computer gets to 10 wins there will be an alert m
 
 ---
 
+## Testing and Validation
+
+### JSHint.com
+
+![JS Hint](/assets/images/jshint.png)
+
+### Responsiveness Testing (Multi-Platform)
+
+This is a fully responsive website as you can see in the image below and it's suited for all platforms:
+
+I used the Am i Responsive Website to check this.
+
+![Responsivness tes](/assets/images/responsive.jpg)
+
+### Lighthouse Testing
+
+I can confirm that the website passed with great scores. See report below:
+
+Desktop
+![Lighthouse test](/assets/images/LHdesktop.png)
+
+Mobile
+![Lighthouse tes](/assets/images/LHmobile.png)
+
+### Validation:
+
+HTML Validation through [HTML-Validator](https://validator.w3.org/)
+
 
 ---
 
