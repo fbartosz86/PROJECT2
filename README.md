@@ -14,10 +14,12 @@ Beyond testing my Javascript abilities, this website's goal is to make a well-te
 
 
 ---
+
 ## Website across different platforms
 ![](assets/images/responsive.jpg)
 
 ---
+
 ## UX Description
 
 In this game, vivid colours are very popular and I featured the following:
@@ -30,16 +32,48 @@ I Orange neon colour dominate the entire design, giving it a unique look
 
 Layout:
 
-- Background picture with Rock, Paper and Scissors in neon colours.
+- Background picture with Rock, Paper and Scissors in neon colours
 - Title on the top of the page
 - "Game Arena" with restart button, choices buttons and summarised score for player and computer
-- History results with player and computer picks.
+- History results with player and computer picks
+- Rules on the bottom of the page
 - Win/Lose Banner following the result
 
+---
+## Technologies used
+
+- HTML5 - Used to structure my website
+- CSS3 - Used to style my website
+- JS - Used to provide logic to my website
+- Github - The cloud based service for hosting repositories
+- Git - Used to add, commit and push my changes to the server
+- Google Fonts - Used to source different fonts in my css file
+
+---
+## Website features
+
+### Home-Page
+Once the player enter weebstie, the game page will appear.
+![Main-Page](/assets/images/Home.png)
+
+### About the Game Features
+
+The game features a choices bar with 3 options to select. Rock (Fist emoji 🤜), Paper (Open hand emoji ✋) and Scissors (Peace sign emoji ✌️). Whenever you Pick and Click a choice, it will appear in the history result followed by the computer's random choice and if either player or computer wins points will be added to the scoreboard, if there is a draw the score won't change. 
+
+![Choices](/assets/images/game1.png)
+
+On the History Results section, not only it will show the last choice, but it will also keep track of previous choices.
+![Choices](/assets/images/game2.png)
+
+After either the Player or the Computer gets to 10 wins there will be an alert message popping up saying who the winner is.
+
+![Choices](/assets/images/game3.png)
+![Choices](/assets/images/game4.png)
+
+---
 
 
-
-
+---
 
 background
 
