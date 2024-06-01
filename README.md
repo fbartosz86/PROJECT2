@@ -150,7 +150,7 @@ How to make a local clone repository:
 ## Credits
 - [How To Code Rock Paper Scissors In JavaScript by Web Dev Simplified](https://www.youtube.com/watch?v=1yS-JV4fWqY) Helped me understand and build the Javascript, HTML and CSS  main structures of this project.
 - [Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game by freeCodeCamp.org ](https://www.youtube.com/watch?v=jaVNP3nIAv0) Helped me to understand better how Javascript work, i havent used any coding from that tutorial.
-- [css-tricks.com](https://css-tricks.com/perfect-full-page-background-image) Helped me understand how to make "Perfect Full Page Background Image".
+- [CSS-tricks.com](https://css-tricks.com/perfect-full-page-background-image) Helped me understand how to make "Perfect Full Page Background Image".
 - [W3C Markup Validation Service](https://validator.w3.org/)  Used to validate all HTML code written and used in this webpage.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) Used to validate all CSS code written and used in this webpage.
 - [AmIResponsive](http://ami.responsivedesign.is/) Used to generate responsive images used in README file.
@@ -158,7 +158,7 @@ How to make a local clone repository:
 - [Rock Paper Scissors by Robrowno](https://github.com/Robrowno/rock-paper-scissors) inspired me to build my readme  file the way I have done it.
 - Background downloaded from [Wallpaperaccess.com](<https://wallpaperaccess.com/rock-paper-scissors>)
 - Fonts imported from: [Google Fonts](https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap)
-- favicon downladed from [Icon by Freepik](https://www.freepik.com/icon/rock-paper-scissors_6729598)
+- Favicon downladed from [Icon by Freepik](https://www.freepik.com/icon/rock-paper-scissors_6729598)
 - Many thanks to the Code Institute slack community for support with my questions. 
 - A Massive thanks to Mihai Paper for constant motivation and moral support.
 
