@@ -98,7 +98,7 @@ Mobile
 
 ### Validation:
 
-HTML Validation through [HTML-Validator](https://validator.w3.org/)
+HTML Validation through [HTML-Validator](https://validator.w3.org/)addin
 
 
 ---
