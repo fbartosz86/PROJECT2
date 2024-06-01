@@ -98,8 +98,23 @@ Mobile
 
 ### Validation:
 
-HTML Validation through [HTML-Validator](https://validator.w3.org/)addin
+HTML Validation through [HTML-Validator](https://validator.w3.org/)
 
+![HTMLw3c](/assets/images/WC3HTMLInfoError1.png)
+![HTMLw3c](/assets/images/WC3HTMLInfoError2.png)
+
+All "slash on void elements "have been removed and typo Spam elements have been properly renamed to span.
+
+![HTMLw3c](/assets/images/WC3HTMLNoErrors.png)
+
+
+CSS Validation through [CSS-Validator](https://jigsaw.w3.org/css-validator/)
+
+![CSSw3c](/assets/images/WC3CSSError.png)
+
+All misspelled errors have been fixed.
+
+![CSSw3c](/assets/images/WC3CSSNoError.png)
 
 ---
 
