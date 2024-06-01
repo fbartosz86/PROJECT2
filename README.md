@@ -158,7 +158,7 @@ How to make a local clone repository:
 - [Rock Paper Scissors by Robrowno](https://github.com/Robrowno/rock-paper-scissors) inspired me to build my readme  file the way I have done it.
 - Background downloaded from [Wallpaperaccess.com](<https://wallpaperaccess.com/rock-paper-scissors>)
 - Fonts imported from: [Google Fonts](https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap)
-- favicon: [Icon by Freepik]("https://www.freepik.com/icon/rock-paper-scissors_6729598")
+- favicon downladed from [Icon by Freepik](https://www.freepik.com/icon/rock-paper-scissors_6729598)
 - Many thanks to the Code Institute slack community for support with my questions. 
 - A Massive thanks to Mihai Paper for constant motivation and moral support.
 
