@@ -18,6 +18,26 @@ Beyond testing my Javascript abilities, this website's goal is to make a well-te
 ![](assets/images/responsive.jpg)
 
 ---
+## UX Description
+
+In this game, vivid colours are very popular and I featured the following:
+
+Colours:
+I Orange neon colour dominate the entire design, giving it a unique look
+- All text in vivid orange #ff7b00 
+- Restart button in  vivid orange #ff7b00 
+- Title, Game area and History result area are in a transparent dark background with an Orange border.
+
+Layout:
+
+- Background picture with Rock, Paper and Scissors in neon colours.
+- Title on the top of the page
+- "Game Arena" with restart button, choices buttons and summarised score for player and computer
+- History results with player and computer picks.
+- Win/Lose Banner following the result
+
+
+
 
 
 
