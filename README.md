@@ -161,3 +161,8 @@ How to make a local clone repository:
 - favicon: [Icon by Freepik]("https://www.freepik.com/icon/rock-paper-scissors_6729598")
 - Many thanks to the Code Institute slack community for support with my questions. 
 - A Massive thanks to Mihai Paper for constant motivation and moral support.
+
+---
+## Final Thoughts
+
+This project was very challenging for me my understanding of Javascript and for sure  I learned a lot through doing this project.  I am glad that I continued searching for the answers and didn't give up when I faced challenges, I am sure this knowledge will be very useful in my future programming career.
