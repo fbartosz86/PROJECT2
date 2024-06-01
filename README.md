@@ -60,15 +60,15 @@ Once the player enter weebstie, the game page will appear.
 
 The game features a choices bar with 3 options to select. Rock (Fist emoji 🤜), Paper (Open hand emoji ✋) and Scissors (Peace sign emoji ✌️). Whenever you Pick and Click a choice, it will appear in the history result followed by the computer's random choice and if either player or computer wins points will be added to the scoreboard, if there is a draw the score won't change. 
 
-![Choices](/assets/images/game1.png)
+![Picks](/assets/images/game1.png)
 
 On the History Results section, not only it will show the last choice, but it will also keep track of previous choices.
-![Choices](/assets/images/game2.png)
+![Picks](/assets/images/game2.png)
 
 After either the Player or the Computer gets to 10 wins there will be an alert message popping up saying who the winner is.
 
-![Choices](/assets/images/game3.png)
-![Choices](/assets/images/game4.png)
+![Picks](/assets/images/game3.png)
+![Picks](/assets/images/game4.png)
 
 ---
 
@@ -116,17 +116,48 @@ All misspelled errors have been fixed.
 
 ![CSSw3c](/assets/images/WC3CSSNoError.png)
 
+
 ---
+## Deployment
+Below are the steps to take to deploy this website:
 
-background
+Rock Paper Scissors! is deployed on Github (the cloud-based service that is hosting my repository). Follow the steps below to deploy a Github Repository through GitHub pages:
 
-<https://www.wallpaperflare.com/three-rock-paper-scissor-hand-signs-green-background-dark-wallpaper-sqhmq>
+1. Select the repository that you want to deploy and select the settings link at the top right of the menu bar (A 'cog' icon will show near it).
+2. Select the pages section on the vertical navigation bar on the left.
+3. On the Github pages tab, scroll to the Source area and change the "None" branch tab to "Main", followed by changing the folder selector to "Root".
+4. Finally, save this setting and refresh the site until you are presented with the following message in green: "Your site is published at (Your Github web address)"
 
-<https://wallpaperaccess.com/rock-paper-scissors>
+### Forking your Repository
+You can fork your repository to create an exact copy of the original one. This allows you to make changes without altering the original repository. 
+Take the steps below:
 
-how to make full background cover pic
-<https://css-tricks.com/perfect-full-page-background-image/>
+1. Find and select your chosen repository.
+2. At the top right of the page, between the watch/unwatch tab and the star tab, select the "Fork" tab.
+3. You should now see a copy of the same repository in your account.
+
+### Cloning a Repository
+How to make a local clone repository:
+
+1. Find and select the chosen repository.
+2. Click on the "Code" button above the displayed repository files.
+3. Select and Copy the displayed link.
+4. In Gitpod, change the directory to your desired location.
+5. Type "git clone" in the terminal and paste the link, followed by pressing Enter on your keyboard. You have successfully created a clone for local use!
 
 
-Icon 
-<a href="https://www.freepik.com/icon/rock-paper-scissors_6729598">Icon by Freepik</a>
+---
+## Credits
+- [How To Code Rock Paper Scissors In JavaScript by Web Dev Simplified](https://www.youtube.com/watch?v=1yS-JV4fWqY) Helped me understand and build the Javascript, HTML and CSS  main structures of this project.
+- [Web Development Tutorial - JavaScript, HTML, CSS - Rock Paper Scissors Game by freeCodeCamp.org ](https://www.youtube.com/watch?v=jaVNP3nIAv0) Helped me to understand better how Javascript work, i havent used any coding from that tutorial.
+- [css-tricks.com](https://css-tricks.com/perfect-full-page-background-image) Helped me understand how to make "Perfect Full Page Background Image".
+- [W3C Markup Validation Service](https://validator.w3.org/)  Used to validate all HTML code written and used in this webpage.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input) Used to validate all CSS code written and used in this webpage.
+- [AmIResponsive](http://ami.responsivedesign.is/) Used to generate responsive images used in README file.
+- [Grammarly](https://www.grammarly.com/) Used to rectify any grammar errors.       
+- [Rock Paper Scissors by Robrowno](https://github.com/Robrowno/rock-paper-scissors) inspired me to build my readme  file the way I have done it.
+- Background downloaded from [Wallpaperaccess.com](<https://wallpaperaccess.com/rock-paper-scissors>)
+- Fonts imported from: [Google Fonts](https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap)
+- favicon: [Icon by Freepik]("https://www.freepik.com/icon/rock-paper-scissors_6729598")
+- Many thanks to the Code Institute slack community for support with my questions. 
+- A Massive thanks to Mihai Paper for constant motivation and moral support.
